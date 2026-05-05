@@ -1067,7 +1067,6 @@ button,
 
 button:hover:not(:disabled),
 .upload-label:hover:not(.disabled) {
-  transform: translateY(-1px);
   box-shadow: 0 14px 28px rgb(17 24 39 / 18%);
 }
 
